@@ -1,15 +1,18 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "55B4E12BC6949AF60C4BAE3B5DC6B397288358DD",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3705B8F3DDC00C80FA3D3B5F23753A1170982E96" : 9223372036854775807,
     "CB31EE023BA5C83B57FFB82C5C7FE0B2C470BCA1" : 9223372036854775807,
-    "3705B8F3DDC00C80FA3D3B5F23753A1170982E96" : 9223372036854775807
+    "55B4E12BC6949AF60C4BAE3B5DC6B397288358DD" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76BBEF90-82A3-4187-940E-E53CD8E04FB2",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3705B8F3DDC00C80FA3D3B5F23753A1170982E96" : "",
     "CB31EE023BA5C83B57FFB82C5C7FE0B2C470BCA1" : "..",
-    "3705B8F3DDC00C80FA3D3B5F23753A1170982E96" : ""
+    "55B4E12BC6949AF60C4BAE3B5DC6B397288358DD" : "JournalEntry\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "JournalEntry",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -19,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/adrian0615\/Homework1220.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3705B8F3DDC00C80FA3D3B5F23753A1170982E96"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/adrian0615\/Day-Too.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55B4E12BC6949AF60C4BAE3B5DC6B397288358DD"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/adrian0615\/Homework-Submission.git",
